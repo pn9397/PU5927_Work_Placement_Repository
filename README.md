@@ -20,6 +20,7 @@ Click any **Document Title** or **File Name** to open the file in this repositor
 | [Northern Ireland PTSD](Research/Northern%20Ireland%20PTSD.docx) | [Northern Ireland PTSD.docx](Research/Northern%20Ireland%20PTSD.docx) | v1.0 | DOCX | PTSD prevalence & Troubles-related comorbidity | Data-focused |
 | [England PTSD](Research/England%20PTSD.docx) | [England PTSD.docx](Research/England%20PTSD.docx) | v1.0 | DOCX | PTSD prevalence and chronic illness co-morbidities | Draft research |
 | [Assessment 1](Research/Assessment%201.docx) | [Assessment 1.docx](Research/Assessment%201.docx)| v1.0 | DOCX | Academic assignment submission | University coursework |
+| [Marketing Plan for Shallion](Research/Marketing%20Plan%20for%20Shallion.docx) | [Marketing Plan for Shallion.docx](Research/Marketing%20Plan%20for%20Shallion.docx) | v1.0 | DOCX | Marketing Plan for Shallion | Marketing Plan for Shallion |
 
 ## Outreach Emails & Communications
 
