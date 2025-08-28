@@ -67,14 +67,10 @@ Click any **Document Title** or **File Name** to open the file in this repositor
 | [Presentation PDF](Presentations/Presentation%20PDF.pdf) | [Presentation PDF.pdf](Presentations/Presentation%20PDF.pdf) | v1.0 | PDF | Non-editable version for distribution | Exported |
 | [Presentation for Assessment](Presentations/Presentation%20for%20Assessment.pptx) | [Presentation for Assessment.pptx](Presentations/Presentation%20for%20Assessment.pptx) | v1.0 | PPTX | University assessment version | Submission |
 | [Presentation Colors and Templates v.1](Presentations/Presentation%20Colors%20and%20Templates%20v.1.pptx) | [Presentation Colors and Templates v.1.pptx](Presentations/Presentation%20Colors%20and%20Templates%20v.1.pptx) | v1.0 | PPTX | Branding & style templates | Draft |
-| Maps – v1 / v1.2 / v2 / Final | Multiple files | v1.0–Final | PPTX | Map visuals for Scotland chronic illness prevalence | Approved Version |
-| Draft Map with Pins | Draft Map with Pins.pptx | v1.0 | PPTX | Early map with markers | Draft |
 
 ## Internal Tools & Planning
 
 | Document Title | File Name | Version | Type | Description / Purpose | Owner | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Draft Table for Research | Draft table for Research.eml | v1.0 | Email | Tabulated research notes | Priyanka Naga | Draft |
-| Marketing Plan | Marketing Plan for Shallion.docx | v1.0 | DOCX | Campaign strategy | Priyanka Naga | Approved version |
 | [Tracker v.1](Trackers/Tracker%20v.1.xlsx) | [Tracker v.1.xlsx](Trackers/Tracker%20v.1.xlsx)| v1.0 | XLSX | Spreadsheet tracker for research & project work | Shallion Support | Working version |
 
