@@ -55,7 +55,6 @@ Click any **Document Title** or **File Name** to open the file in this repositor
 | [Support GRoups v.1.1](Research/Support%20GRoups%20v.1.1.docx) | [Support GRoups v.1.1.docx](Research/Support%20GRoups%20v.1.1.docx) | v1.1–1.3 | DOCX | Iterations of combined support groups list | v1.3 is current draft |
 | [Support Groups v.1.2](Research/Support%20Groups%20v.1.2.docx) | [Support Groups v.1.2.docx](Research/Support%20Groups%20v.1.2.docx) | v1.1–1.3 | DOCX | Iterations of combined support groups list | v1.3 is current draft |
 | [Support Groups v.1.3](Research/Support%20Groups%20v.1.3.docx) | [Support Groups v.1.3.docx](Research/Support%20Groups%20v.1.3.docx) | v1.1–1.3 | DOCX | Iterations of combined support groups list | v1.3 is current draft |
-| Orkney Autoimmune Support Services | (parsed text) | v1.0 | DOCX | Local Orkney-specific autoimmune support overview | Current version |
 
 ## Presentations & Visuals
 
